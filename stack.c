@@ -2,7 +2,7 @@
 
 /**
  * free_stack - freedoubly linked list
- * @head: first node of stack
+ * @head: first node of the stack
  * Return: none
  */
 
