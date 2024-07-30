@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * f_pop - print top node on stack
+ * f_pop - print top node on the stack
  * @head: pointer to pointer of first node
  * @counter: line counter
  *
