@@ -2,7 +2,7 @@
 
 /**
 * f_pall - print everything in stack
-* @head: pointer to pointer of first node
+* @head: pointer to pointer of the first node
 * @counter: line counter (not used)
 *
 * Return: none
