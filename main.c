@@ -4,7 +4,7 @@
 bus_t bus = {NULL, NULL, NULL, 0};
 
 /**
-* main - monty code interpreter
+* main - the monty code interpreter
 * @argc: argument counter
 * @argv: argument vector
 *
